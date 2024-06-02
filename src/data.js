@@ -1,4 +1,4 @@
-export let data=
+export let dataa=
 [
     {
       "timestamp": "2019-01-02T03:50:09.097718",
